@@ -1,0 +1,1 @@
+# LTSAD_LibreTranslatorStandAloneDesktopApp
